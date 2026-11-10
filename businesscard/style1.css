@@ -1,0 +1,28 @@
+body{
+    margin: 20px;
+}
+.zoroimg{
+    width: 200px;
+    
+
+
+}
+.zoro10{
+    border: 1px dotted black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    text-align: center;
+    background-color: #ddebf8;
+    border-bottom: 4px solid #d8cefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+.bordering{
+    border: 1px solid blue;
+    
+}
